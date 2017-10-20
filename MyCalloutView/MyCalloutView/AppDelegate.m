@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 #import <AMapFoundationKit/AMapFoundationKit.h>
 
-static NSString * const amapServiceKey = @"1131290bd167e76d33bb6cab877eb678";
+static NSString * const amapServiceKey = @"";
 
 @interface AppDelegate ()
 
